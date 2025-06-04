@@ -14,6 +14,14 @@ A web application that allows you to compare summarization capabilities between 
 - **ChatGPT-style UI**: Clean, modern interface inspired by ChatGPT
 - **Performance Metrics**: View processing times for each model
 
+## 🚀 Screenshots
+
+<img width="1470" alt="Screenshot 2025-06-04 at 2 51 26 PM" src="https://github.com/user-attachments/assets/7fffbfa9-313c-4355-9c34-016dfe74048c" />
+<img width="1469" alt="Screenshot 2025-06-04 at 2 51 38 PM" src="https://github.com/user-attachments/assets/ef467308-c4f4-48e6-80a3-dc35f9730547" />
+<img width="1463" alt="Screenshot 2025-06-04 at 2 51 54 PM" src="https://github.com/user-attachments/assets/c833d7ec-6a88-4098-a195-714365538fdd" />
+<img width="1470" alt="Screenshot 2025-06-04 at 2 52 15 PM" src="https://github.com/user-attachments/assets/c4814a74-11c4-486b-9571-ef1c63c3c4e4" />
+
+
 ## 🏗️ Architecture
 
 ```
