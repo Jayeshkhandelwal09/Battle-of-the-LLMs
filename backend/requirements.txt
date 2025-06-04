@@ -1,0 +1,9 @@
+flask==3.0.0
+flask-cors==4.0.0
+openai==0.28.1
+google-generativeai==0.8.3
+transformers==4.40.0
+torch==2.7.0
+accelerate==0.25.0
+sentencepiece
+python-dotenv==1.0.0 
